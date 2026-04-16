@@ -1,0 +1,21 @@
+PRIVACY DISCLAIMER — Automated Noise Monitoring System
+
+This system records ambient sound levels for the sole purpose of
+documenting environmental noise (e.g. construction, traffic, impact
+sounds) during overnight hours.
+
+FREQUENCY FILTERING
+A band-stop (notch) filter targeting 500 Hz – 2,500 Hz is intended to
+be applied during recording. This range covers the fundamental
+frequencies of human speech, significantly reducing the intelligibility
+of any captured voices. The system is not designed or intended to
+record, store, or transmit recognizable speech.
+
+DATA HANDLING
+- Recordings are compressed to 32 kbps mono MP3, further reducing
+  audio fidelity.
+- Files are automatically deleted after 90 days.
+- Only aggregate decibel levels and timestamps are used for analysis.
+
+This system is operated for personal, lawful use in documenting noise
+conditions within the operator's own residence.
